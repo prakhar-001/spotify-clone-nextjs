@@ -17,7 +17,7 @@ export const metadata = {
 };
 
 export const viewport = {
-  themeColor: "#334155",
+  themeColor: "#000000",
 }
 
 export const revalidate = 0;
