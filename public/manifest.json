@@ -1,0 +1,31 @@
+{
+    "id":"2",
+    "name": "Spotify Clone",
+    "short_name": "Spotify Clone",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "/spotify-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable any"
+      },
+      {
+        "src": "/spotify-384.png",
+        "sizes": "384x384",
+        "type": "image/png",
+        "purpose": "maskable any"
+      },
+      {
+        "src": "/spotify-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable any"
+      }
+    ],
+    "theme_color": "#334155",
+    "background_color": "#334155",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+}

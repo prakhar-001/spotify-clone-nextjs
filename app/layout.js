@@ -13,7 +13,9 @@ const font = Figtree({ subsets: ["latin"] });
 export const metadata = {
   title: "Spotify Clone",
   description: "Listen to music for Free!!!",
+  manifest: "/manifest.json"
 };
+
 
 export const revalidate = 0;
 
