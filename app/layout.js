@@ -16,6 +16,9 @@ export const metadata = {
   manifest: "/manifest.json"
 };
 
+export const viewport = {
+  themeColor: "#334155",
+}
 
 export const revalidate = 0;
 
